@@ -4,7 +4,7 @@ This is a web app showing portfolio of myself.
 This has been deployed to GitHub. To get this web app ( or project) up and running, one can follow the link(deployment).one can also download the file to use as template.
  
 * [GitHub Repository](https://github.com/citenaresh/naresh-react-portfolio/): https://github.com/citenaresh/naresh-react-portfolio
-* [Deployed GitHub IO](https://citenaresh.github.io/portfolio/): https://citenaresh.github.io/portfolio
+* [Deployed GitHub IO](https://citenaresh.github.io/naresh-react-portfolio/portfolio/): https://citenaresh.github.io/naresh-react-portfolio/portfolio
 
 ### my project's Summary
 * The document is an updated portfolio of mine using the web tools and framework I have learnt so far.
